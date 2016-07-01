@@ -4,5 +4,7 @@ My dip in Machine Learning using elementary math methods to detect linear recurr
 # Requirements
 
    -Pandas 
+   
+   
    -Numpy
 
