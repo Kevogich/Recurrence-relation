@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-
+#provide local path 
 testfile='../input/test.csv'
 data = open(testfile).readlines()
 
